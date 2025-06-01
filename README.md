@@ -1,6 +1,3 @@
-Sure! Here’s a clean, ready-to-use **README.md** content you can copy-paste directly for your project:
-
-```markdown
 # 📧 Email Classification System with PII Masking
 
 This project implements a FastAPI-based email classification system that:
